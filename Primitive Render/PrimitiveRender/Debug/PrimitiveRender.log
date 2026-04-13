@@ -1,0 +1,24 @@
+﻿  DirectX.cpp
+  Font.cpp
+  HexagonalCone.cpp
+  HexagonalCylinder.cpp
+  IndexedPrimitive.cpp
+  myProject.cpp
+  Primitive.cpp
+  RhombusPair.cpp
+  Sprite.cpp
+  TextureType.cpp
+  Timer.cpp
+  Generating Code...
+directxtk.lib(BasicEffect.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(BasicEffect.obj)' or at ''; linking object as if no debug info
+directxtk.lib(CommonStates.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(CommonStates.obj)' or at ''; linking object as if no debug info
+directxtk.lib(DDSTextureLoader.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(DDSTextureLoader.obj)' or at ''; linking object as if no debug info
+directxtk.lib(BinaryReader.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(BinaryReader.obj)' or at ''; linking object as if no debug info
+directxtk.lib(EffectCommon.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(EffectCommon.obj)' or at ''; linking object as if no debug info
+directxtk.lib(pch.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(pch.obj)' or at ''; linking object as if no debug info
+directxtk.lib(SimpleMath.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(SimpleMath.obj)' or at ''; linking object as if no debug info
+directxtk.lib(SpriteBatch.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(SpriteBatch.obj)' or at ''; linking object as if no debug info
+directxtk.lib(SpriteFont.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(SpriteFont.obj)' or at ''; linking object as if no debug info
+directxtk.lib(VertexTypes.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(VertexTypes.obj)' or at ''; linking object as if no debug info
+directxtk.lib(WICTextureLoader.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(WICTextureLoader.obj)' or at ''; linking object as if no debug info
+  PrimitiveRender.vcxproj -> C:\Users\Matthew\OneDrive\Documents\GitHub\primitive-render\Primitive Render\Debug\PrimitiveRender.exe
